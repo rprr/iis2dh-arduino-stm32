@@ -1,0 +1,3 @@
+[submodule "iis2dh-pid"]
+	path = iis2dh-pid
+	url = https://github.com/STMicroelectronics/iis2dh-pid.git
