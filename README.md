@@ -22,3 +22,9 @@ This git repo provides an exampke program for the IIS2DH motion sensor. Inspired
 the example: 
 https://github.com/STMicroelectronics/STMems_Standard_C_drivers/blob/master/iis2dh_STdC/examples/iis2dh_read_data_polling.c
 
+Instructions:
+- Modify the sketch to match your SPI Pin connections including CS
+- Copy the iis2dh_reg.c and iis2dh_reg.h files into separate tabs
+- You may want to modify the Serial Port definition
+- I also use LibPrintf
+- Change LEDs as needed
