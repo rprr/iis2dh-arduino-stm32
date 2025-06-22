@@ -3,7 +3,8 @@
 // Using Generic stm32duino stm32l4 
 // Board generic
 // Sensor IIS2DH Basic Example
-// Libraries at https://github.com/STMicroelectronics/iis2dh-pid.git
+// Libraries at https://github.com/STMicroelectronics/STMems_Standard_C_drivers/tree/master/iis2dh_STdC
+// https://github.com/STMicroelectronics/iis2dh-pid.git
 //
 #include "SPI.h"
 #include "iis2dh_reg.h"
